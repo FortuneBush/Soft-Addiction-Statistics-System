@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SoftAddictionStatistics", "软瘾统计系统\SoftAddictionStatistics.vbproj", "{2C82779F-6567-41AE-B280-8AAACF0D5E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C82779F-6567-41AE-B280-8AAACF0D5E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C82779F-6567-41AE-B280-8AAACF0D5E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C82779F-6567-41AE-B280-8AAACF0D5E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C82779F-6567-41AE-B280-8AAACF0D5E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A8E700-FDA8-43B3-BE05-C4D2DE332FDA}
+	EndGlobalSection
+EndGlobal
